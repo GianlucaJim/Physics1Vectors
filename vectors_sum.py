@@ -20,7 +20,7 @@ def read_input_method():
             "Opcion:"
         )
         if method in ('1', '2'):
-            return method 
+            return method
         print("Opcion no valida, por favor seleccione solo 1 o 2.")
         
 def read_vector_by_mag_dir():
