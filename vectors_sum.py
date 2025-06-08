@@ -65,4 +65,4 @@ def main():
     print(f"  Componente y total: {total_y:.4f}")
     
 if __name__ == "__main__":
-    main()       
+    main()
